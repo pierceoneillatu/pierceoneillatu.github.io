@@ -72,7 +72,7 @@ function update_ui(ip_address, location, timezone, isp) {
 }
 
 /* Create map with default values when page loads */
-const defaultIp = "26.37.52.179";
+const defaultIp = "51.186.186.164";
 search_Ip_Address(defaultIp);
 
 /* navigator.geolocation.getCurrentPosition
